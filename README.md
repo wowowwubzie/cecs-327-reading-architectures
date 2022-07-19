@@ -1,4 +1,4 @@
-# CECS 327 Reading Assignment - Architectures
+# CECS 327 Reading Assignment: Architectures
 
 # Assignment Description
 Answer the following questions from the Chapter 2 reading from your textbook. Be complete with your answers. You may work on these questions with one or two other partners, but all students must submit the document individually in their own repositories along with each student's name documented with the submission.
