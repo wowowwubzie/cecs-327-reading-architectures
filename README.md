@@ -1,6 +1,6 @@
 # CECS 327 Reading Assignment: Architectures
 
-# Assignment Description
+### Assignment Description
 Answer the following questions from the Chapter 2 reading from your textbook. Be complete with your answers. You may work on these questions with one or two other partners, but all students must submit the document individually in their own repositories along with each student's name documented with the submission.
 
 1. What is a three-tiered client-server architecture?
@@ -15,5 +15,7 @@ Answer the following questions from the Chapter 2 reading from your textbook. Be
 10. Modern cars are stuffed with electronic devices. Give some 
   examples of feedback control systems in cars.
 
-# Deliverables
-Commit the answers to the questions in a readable file to your git repository by the due date and time indicated with your repository. Approved file submission formats are: plain text (\*.txt), Markdown (\*.md), PDF (\*.pdf) or web-renderable HTML (\*.html). Github will look for one of these file formats to confirm your "submission" of the assignment. Other formats will only be accepted with *explicit* approval. **NOTE: \*.docx is *not* acceptable. I will not make exceptions for this rule being violated**.
+### Deliverables
+* Your writeup file *must* be done in [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) format and must be included in the repository as a separate file. View the file [`README.md`](README.md?plain=1) for an example of Markdown.
+* Any included images or screenshots should be done in `*.jpg`, `*.png`, or `*.gif` formats, and be included individually as files in your repository (i.e. no binary ‘document’ with the images pasted inside).
+* Screenshots or images *may* be linked in your Markdown file writeup if you wish to do so.
