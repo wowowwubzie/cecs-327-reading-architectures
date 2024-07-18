@@ -18,3 +18,12 @@
 5. In a structured overlay network, messages are routed according to the topology of the overlay. What is an important disadvantage of this approach? 
 - An important disadvantage to this approach is that the number of nodes is not fixed. Any changes in the number of routing paths and network, such as other nodes joining and or leaving, will requiem the structure to adjust in order to maintain.
 ---
+6. Consider an unstructured overlay network in which each node randomly chooses 𝑐 neighbors. If 𝑃 and 𝑄 are both neighbors of 𝑅 , what is the probability that they are also neighbors of each other? 
+- The probability that P and Q are neighbors of each other in an unstructured overlay network is based off random graph model, so he probability is determined by the probability distribution since the neighbors are chosen randomly. This meaning that the probability can vary widely and is not fixed. 
+---
+7. Not every node in a peer-to-peer network should become superpeer. What are reasonable requirements that a superpeer should meet? 
+- On page 95 of the textbook it states that a super peer should be a “long lived process with high-availability”, meaning that super peer must be able to able to support weaker peers in their network. They should also be cable of handling additional load, and maintaining directories. 
+---
+8. Give an example of a self-managing system in which the analysis component is completely distributed or even hidden. 
+- The textbook mentions a BitTorrent system, which is a self-managing system with a distributed analysis. For this system, each node autonomously manages the download and upload rates based on the seeds or nodes. 
+---
