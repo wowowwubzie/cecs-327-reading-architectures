@@ -27,3 +27,9 @@
 8. Give an example of a self-managing system in which the analysis component is completely distributed or even hidden. 
 - The textbook mentions a BitTorrent system, which is a self-managing system with a distributed analysis. For this system, each node autonomously manages the download and upload rates based on the seeds or nodes. 
 ---
+9. Consider a BitTorrent system in which each node has an outgoing link with a bandwidth capacity 𝐵𝑜𝑢𝑡 and an incoming link with bandwidth capacity 𝐵𝑖𝑛. Some of these nodes (called seeds) voluntarily offer files to be downloaded by others. What is the maximum download capacity of a BitTorrent client if we assume that it can contact at most one seed at a time? 
+- The maximum download capacity of a BitTorrent client if we assume that it can contact at most one seed at a time would be dependent on the incoming and outcoming bandwidth that the seed. Since the BitTorrent client is only capable of downloading data one seed at a time then it would choose the seed with the highest outgoing bandwidth, so that the download speed is faster. Although, the speed is limited due to the incoming bandwidth which determines the rate at which data can be received. 
+---
+10. Modern cars are stuffed with electronic devices. Give some examples of feedback control systems in cars
+- Adaptive cruise control: This control system allows cars to maintain a constant speed by comparing the vehicle's speed to the desired speed and adjusting the throttle according to the feedback received. 
+- Lane-keeping assist: This control system uses sensors and cameras to detect lanes and different floor markings while driving. When the vehicle crosses or is close to crossing these markings, the car's control system will help direct the car so that it stays in a singular lane. This feedback received from the cars’ cameras and sensors allows the car to adjust to the proper conduct. 
